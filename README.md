@@ -1,2 +1,2 @@
 # hello-world
-githhub-essentials
+Lets discover github and its magic
